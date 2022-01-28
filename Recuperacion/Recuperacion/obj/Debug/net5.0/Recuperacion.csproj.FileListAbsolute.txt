@@ -1,0 +1,16 @@
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.AssemblyInfo.cs
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\Recuperacion.exe
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\Recuperacion.deps.json
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\Recuperacion.runtimeconfig.json
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\Recuperacion.runtimeconfig.dev.json
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\Recuperacion.dll
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\ref\Recuperacion.dll
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\bin\Debug\net5.0\Recuperacion.pdb
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.dll
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\ref\Recuperacion.dll
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.pdb
+C:\Users\fabia\source\repos\Recuperacion\Recuperacion\obj\Debug\net5.0\Recuperacion.genruntimeconfig.cache

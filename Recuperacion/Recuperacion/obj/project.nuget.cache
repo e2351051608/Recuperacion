@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNCv9DtobfSUp5m5FfPJWiX16Po9wmD4C9pCxRWc5BbU7J+vGjqiU0xP8iLDGxyGgCyM+Xa107zz443n03Gw/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\Recuperacion\\Recuperacion\\Recuperacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
